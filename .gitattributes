@@ -4,4 +4,4 @@ proprietary/odm/lib64/libarcsoft_raw_sr.so filter=lfs diff=lfs merge=lfs -text
 proprietary/odm/etc/camera/ellc.bin filter=lfs diff=lfs merge=lfs -text
 proprietary/odm/etc/camera/sd_unet.minn filter=lfs diff=lfs merge=lfs -text
 proprietary/odm/etc/camera/aisn.bin filter=lfs diff=lfs merge=lfs -text
-
+proprietary/odm/lib64/libxmi_slow_motion_mein.so filter=lfs diff=lfs merge=lfs -text
