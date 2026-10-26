@@ -1570,6 +1570,7 @@ PRODUCT_PACKAGES += \
     libvega_common_ecd \
     libwa_opticalzoom_fusion \
     libwa_widelens_undistort \
+    libxmi_slow_motion_mein \
     vendor.novatek.hardware.visdisplaysrv-V1-ndk \
     odm_lib_rfsa_adsp_libaisupernight_ellc_cdsp_skel_so \
     odm_lib_rfsa_adsp_libmialgo_ai_process_cdsp_skel_so \
